@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+gii 2 and 3 makes 5
 Use the left arrow to go back!
